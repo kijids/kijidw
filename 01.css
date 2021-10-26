@@ -1,0 +1,44 @@
+.baidu {
+    position: relative;
+    top: 130px;
+    left: 832px;
+    /*定位*/
+}
+
+.d {
+    border: 1px solid;
+    border-radius: 8px;
+    width: 520px;
+    /*圆角*/
+    height: 20px;
+    padding: 10px 20px;
+}
+
+.d {
+    position: relative;
+    top: 170px;
+    left: 410px;
+    /*定位*/
+}
+
+.w {
+    position: relative;
+    top: 128px;
+    left: 1150px;
+}
+
+.w {
+    border: 0px solid;
+    background-color: #4e6ef2;
+    color: aliceblue;
+    border-radius: 7px;
+    width: 97px;
+    /*圆角*/
+    height: 42px;
+}
+
+.a {
+    position: relative;
+    top: auto;
+    left: 200px;
+}
